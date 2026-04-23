@@ -81,7 +81,7 @@ If you find this repo helpful:
 
 ## 📬 Connect With Me
 
-* Instgram - ujjwal_verma19
+* Instagram - ujjwal_verma19
 
 ---
 
