@@ -54,16 +54,6 @@ Each file contains:
 
 ---
 
-## 📊 Progress Tracker
-
-| Difficulty | Solved |
-| ---------- | ------ |
-| Easy       | X      |
-| Medium     | X      |
-| Hard       | X      |
-
----
-
 ## 🎯 Goals
 
 * Solve **300+ problems**
@@ -91,8 +81,7 @@ If you find this repo helpful:
 
 ## 📬 Connect With Me
 
-* GitHub: (your profile link)
-* LinkedIn: (optional)
+* Instgram - ujjwal_verma19
 
 ---
 
