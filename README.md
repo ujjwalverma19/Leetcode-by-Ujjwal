@@ -30,18 +30,6 @@ The goal is to build strong problem-solving skills, master data structures & alg
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-📁 LeetCode-Solutions/
-│
-├── Easy/
-├── Medium/
-├── Hard/
-│
-├── README.md
-```
-
 Each file contains:
 
 * ✅ Problem description (short)
